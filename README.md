@@ -118,6 +118,14 @@ Improve UI/UX: Add features like a chat history interface to maintain conversati
 
 Explore Guardrails: Implement more sophisticated guardrails to protect against prompt injection or malicious queries.
 
+Screenshots of the Application
+
+![RAG Architecture Diagram](screen_shots/rag_01.png)
+![RAG Architecture Diagram](screen_shots/rag_02.png)
+![RAG Architecture Diagram](screen_shots/rag_03.png)
+![RAG Architecture Diagram](screen_shots/rag_04.png)
+![RAG Architecture Diagram](screen_shots/rag_05.png)
+![RAG Architecture Diagram](screen_shots/rag_06.png)
 
 ***
 
