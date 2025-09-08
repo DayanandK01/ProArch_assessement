@@ -1,0 +1,206 @@
+[
+  {
+    "question": "What is the difference between open-source and proprietary LLMs?",
+    "answer": "Open-source LLMs are publicly available for use and customization, while proprietary LLMs are owned by organizations and typically accessible only through restricted APIs or licenses."
+  },
+  {
+    "question": "Why is data quality important for training LLMs?",
+    "answer": "High-quality and diverse data ensures LLMs learn accurate, unbiased, and contextually relevant language patterns."
+  },
+  {
+    "question": "What is continual learning in AI?",
+    "answer": "Continual learning allows AI systems to learn and adapt from new data without forgetting previously acquired knowledge."
+  },
+  {
+    "question": "How do AI agents differ from traditional automation scripts?",
+    "answer": "Unlike fixed automation scripts, AI agents are adaptive, can make decisions, and respond dynamically to changing environments."
+  },
+  {
+    "question": "What role does curiosity-driven learning play in AI agents?",
+    "answer": "Curiosity-driven learning motivates agents to explore new possibilities and improve performance by seeking novel experiences."
+  },
+  {
+    "question": "What is model distillation in AI?",
+    "answer": "Model distillation is the process of transferring knowledge from a large model to a smaller model to improve efficiency without losing much accuracy."
+  },
+  {
+    "question": "How do multi-step reasoning capabilities improve AI agents?",
+    "answer": "Multi-step reasoning enables AI agents to break complex problems into manageable steps, improving accuracy and decision-making."
+  },
+  {
+    "question": "What is an LLM agent loop?",
+    "answer": "An LLM agent loop is a process where an agent generates actions, evaluates outcomes, reflects on results, and adjusts strategies iteratively."
+  },
+  {
+    "question": "How do LLM agents connect to real-time data sources?",
+    "answer": "LLM agents connect to real-time data sources through APIs, databases, or streaming services that provide up-to-date information."
+  },
+  {
+    "question": "What is the role of context windows in LLMs?",
+    "answer": "The context window defines how much text an LLM can process at once, affecting its ability to remember and handle input efficiently."
+  },
+  {
+    "question": "Why do larger context windows benefit agentic AI?",
+    "answer": "Larger context windows allow agents to consider more information, enabling better reasoning, planning, and continuity in conversations."
+  },
+  {
+    "question": "How do hierarchical planning techniques help AI agents?",
+    "answer": "Hierarchical planning allows AI agents to divide goals into sub-goals, making complex tasks easier to solve through structured strategies."
+  },
+  {
+    "question": "What is the role of reflection in autonomous agents?",
+    "answer": "Reflection allows agents to review their reasoning and outputs, improving accuracy and reducing errors over time."
+  },
+  {
+    "question": "What are safety layers in LLMs?",
+    "answer": "Safety layers are additional filters, moderation tools, and alignment techniques that prevent harmful or inappropriate outputs."
+  },
+  {
+    "question": "What is a reasoning engine in AI agents?",
+    "answer": "A reasoning engine enables AI agents to apply logic, analysis, and step-by-step thought processes for problem-solving."
+  },
+  {
+    "question": "How can LLMs simulate human-like conversations?",
+    "answer": "LLMs use probabilistic modeling of language patterns to generate responses that mimic human dialogue in coherence and tone."
+  },
+  {
+    "question": "What is the sandboxing technique in AI agent design?",
+    "answer": "Sandboxing isolates agent actions in safe, simulated environments to prevent unintended consequences during testing or deployment."
+  },
+  {
+    "question": "How do AI agents use external memory databases?",
+    "answer": "Agents use external databases to persist information between sessions, expanding their context beyond the limitations of internal memory."
+  },
+  {
+    "question": "What are planning-based agent architectures?",
+    "answer": "Planning-based architectures structure AI behavior by setting goals, generating plans, executing actions, and revising strategies dynamically."
+  },
+  {
+    "question": "How do LLMs contribute to task automation?",
+    "answer": "LLMs enhance task automation by interpreting human commands, generating instructions, and interacting with software tools in natural language."
+  },
+  {
+    "question": "What is the difference between reactive and proactive AI agents?",
+    "answer": "Reactive agents respond only to immediate inputs, while proactive agents anticipate needs and act toward long-term goals."
+  },
+  {
+    "question": "What are few-shot agents?",
+    "answer": "Few-shot agents can adapt to new tasks after seeing only a few examples, leveraging LLMs’ generalization abilities."
+  },
+  {
+    "question": "What does alignment mean in the context of AI?",
+    "answer": "Alignment refers to ensuring AI systems act in accordance with human values, ethical principles, and intended outcomes."
+  },
+  {
+    "question": "Why is interpretability critical for agentic AI?",
+    "answer": "Interpretability ensures humans can understand and trust decisions made by autonomous AI agents."
+  },
+  {
+    "question": "What is sandbox testing for AI agents?",
+    "answer": "Sandbox testing involves running AI agents in controlled environments to evaluate safety, performance, and behaviors."
+  },
+  {
+    "question": "What is task decomposition in agent planning?",
+    "answer": "Task decomposition involves breaking down complex tasks into smaller, manageable actions that agents can solve step by step."
+  },
+  {
+    "question": "What is the risk of agent over-optimization?",
+    "answer": "Over-optimization can cause agents to pursue unintended shortcuts that achieve goals while ignoring broader consequences."
+  },
+  {
+    "question": "What is emergent behavior in multi-agent systems?",
+    "answer": "Emergent behavior occurs when agents interact in ways that produce complex outcomes not explicitly programmed."
+  },
+  {
+    "question": "How do LLMs support knowledge workers?",
+    "answer": "LLMs assist knowledge workers with summarizing documents, generating reports, improving writing, and retrieving information quickly."
+  },
+  {
+    "question": "What are benchmarks for evaluating LLMs?",
+    "answer": "Benchmarks include metrics for language understanding, reasoning ability, factual accuracy, and bias detection."
+  },
+  {
+    "question": "Why is personalization important in AI agents?",
+    "answer": "Personalization allows agents to adapt to user preferences, contexts, and goals, making interactions more effective and natural."
+  },
+  {
+    "question": "How do LLMs help with decision support?",
+    "answer": "LLMs help decision support by summarizing information, evaluating trade-offs, and suggesting possible solutions."
+  },
+  {
+    "question": "What are plug-in architectures for LLMs?",
+    "answer": "Plug-in architectures allow LLMs to connect with external services, granting them extended functionality like browsing and data analysis."
+  },
+  {
+    "question": "What is observability in AI agents?",
+    "answer": "Observability refers to monitoring and analyzing agent processes to understand their behavior and performance during operation."
+  },
+  {
+    "question": "What is self-improvement in AI?",
+    "answer": "Self-improvement is the ability of AI agents to refine their strategies and knowledge based on past experiences and feedback loops."
+  },
+  {
+    "question": "What is a deliberative AI agent?",
+    "answer": "A deliberative agent relies on reasoning, planning, and representations of the world to make informed decisions."
+  },
+  {
+    "question": "How do AI agents handle conflicting objectives?",
+    "answer": "AI agents resolve conflicting objectives through prioritization, optimization, or negotiation strategies in multi-agent setups."
+  },
+  {
+    "question": "What is ethical auditing of AI agents?",
+    "answer": "Ethical auditing involves evaluating AI systems for fairness, transparency, biases, and compliance with ethical guidelines."
+  },
+  {
+    "question": "How do LLMs manage ambiguity in queries?",
+    "answer": "LLMs manage ambiguity by inferring context, asking clarifying questions, or offering multiple possible interpretations."
+  },
+  {
+    "question": "What is exploratory behavior in AI agents?",
+    "answer": "Exploratory behavior involves agents testing new strategies or actions to discover more effective solutions over time."
+  },
+  {
+    "question": "Why is context retention important for conversational AI agents?",
+    "answer": "Context retention enables agents to maintain continuity across interactions, making conversations coherent and user-friendly."
+  },
+  {
+    "question": "What is adversarial testing in LLMs?",
+    "answer": "Adversarial testing exposes LLMs to challenging or misleading inputs to evaluate robustness and identify failure modes."
+  },
+  {
+    "question": "What are autonomous software agents?",
+    "answer": "Autonomous software agents are digital programs that perform tasks independently, such as data gathering, analysis, or automation."
+  },
+  {
+    "question": "What is lifelong learning in agentic AI?",
+    "answer": "Lifelong learning enables AI agents to continuously acquire new knowledge and adapt to changing environments over an extended period."
+  },
+  {
+    "question": "What role does ethics play in agentic AI design?",
+    "answer": "Ethics ensures that AI agents act responsibly, safeguarding human values, fairness, transparency, and accountability."
+  },
+  {
+    "question": "What are dynamic goal-setting agents?",
+    "answer": "Dynamic goal-setting agents can adapt goals in real time based on environmental changes, priorities, and user feedback."
+  },
+  {
+    "question": "What is an ecosystem of AI agents?",
+    "answer": "An AI ecosystem is a network of multiple agents working together across different domains to achieve complex outcomes."
+  },
+  {
+    "question": "What is the role of simulation environments in training AI agents?",
+    "answer": "Simulation environments allow agents to practice reasoning, decision-making, and learning in safe, controlled scenarios."
+  },
+  {
+    "question": "How do autonomous AI agents execute workflows?",
+    "answer": "Agents execute workflows by chaining tasks together sequentially or in parallel, adapting steps as needed to reach goals."
+  },
+  {
+    "question": "How are AI agents supervised during deployment?",
+    "answer": "AI agents are supervised through monitoring systems, logging, and user oversight to ensure safe and effective performance."
+  },
+  {
+    "question": "What is hybrid intelligence in AI?",
+    "answer": "Hybrid intelligence combines human expertise with AI autonomy, enabling collaborative decision-making and problem-solving."
+  }
+]

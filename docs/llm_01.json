@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What does LLM stand for in artificial intelligence?",
+    "answer": "LLM stands for Large Language Model, a type of AI trained on vast amounts of text data to understand and generate human-like language."
+  },
+  {
+    "question": "What is an Agentic AI?",
+    "answer": "Agentic AI refers to AI systems designed to act autonomously, make decisions, and interact with their environment to achieve specific goals."
+  },
+  {
+    "question": "How are LLMs trained?",
+    "answer": "LLMs are trained using machine learning techniques, particularly deep learning, on large datasets of text collected from books, websites, and other sources."
+  },
+  {
+    "question": "What is the main difference between LLMs and traditional NLP models?",
+    "answer": "Unlike traditional NLP models that are task-specific, LLMs are general-purpose models capable of performing a wide range of language tasks without task-specific training."
+  },
+  {
+    "question": "What is meant by 'agentic' in Agentic AI?",
+    "answer": "The term 'agentic' means having the capacity to act autonomously toward goals in dynamic environments."
+  },
+  {
+    "question": "How do LLMs generate responses?",
+    "answer": "LLMs generate responses by predicting the most probable sequence of words based on patterns in their training data."
+  },
+  {
+    "question": "What is reinforcement learning with human feedback (RLHF)?",
+    "answer": "RLHF is a technique used to fine-tune LLMs by aligning their responses with human preferences and values through human-in-the-loop feedback."
+  },
+  {
+    "question": "Why are agentic AI systems important?",
+    "answer": "Agentic AI systems are important because they can operate independently, perform complex tasks, and adapt to new conditions without constant human intervention."
+  },
+  {
+    "question": "What role do LLMs play in enabling Agentic AI?",
+    "answer": "LLMs provide the natural language understanding and reasoning capabilities that power Agentic AI’s interactions and autonomous decision-making."
+  },
+  {
+    "question": "What is a knowledge cutoff in an LLM?",
+    "answer": "A knowledge cutoff is the time limit on the data used to train the LLM, meaning the model is unaware of events after that point."
+  },
+  {
+    "question": "What makes LLMs general-purpose models?",
+    "answer": "LLMs are general-purpose because they can perform diverse tasks such as text summarization, translation, question answering, and creative writing without retraining."
+  },
+  {
+    "question": "How does an AI agent differ from a chatbot?",
+    "answer": "An AI agent can plan, reason, and act autonomously toward goals, while a chatbot typically responds to inputs without long-term reasoning or planning."
+  },
+  {
+    "question": "What is prompt engineering in the context of LLMs?",
+    "answer": "Prompt engineering involves crafting input text in specific ways to guide LLMs to produce desired outputs."
+  },
+  {
+    "question": "What is multi-agent AI?",
+    "answer": "Multi-agent AI involves multiple autonomous agents that interact, collaborate, or compete to accomplish tasks in shared environments."
+  },
+  {
+    "question": "What are transformer models in AI?",
+    "answer": "Transformers are a deep learning architecture that forms the foundation of LLMs, using self-attention mechanisms to process input sequences efficiently."
+  },
+  {
+    "question": "Why are transformers ideal for LLMs?",
+    "answer": "Transformers are ideal for LLMs because they can model long-range dependencies in text, enabling more coherent and contextually accurate language generation."
+  },
+  {
+    "question": "How do AI agents use LLMs for reasoning?",
+    "answer": "AI agents use LLMs for reasoning by leveraging their language understanding to interpret instructions, analyze information, and plan actions."
+  },
+  {
+    "question": "What is few-shot learning in LLMs?",
+    "answer": "Few-shot learning is the ability of LLMs to perform new tasks with only a small number of examples provided in the prompt."
+  },
+  {
+    "question": "What is zero-shot learning in LLMs?",
+    "answer": "Zero-shot learning allows LLMs to perform tasks without seeing any examples, relying solely on instructions given in natural language."
+  },
+  {
+    "question": "What are embeddings in LLMs?",
+    "answer": "Embeddings are numerical representations of text that capture semantic meaning, allowing LLMs to understand similarities and context in language."
+  },
+  {
+    "question": "What is chain-of-thought prompting?",
+    "answer": "Chain-of-thought prompting is a method of encouraging LLMs to explain their reasoning step by step before giving a final answer."
+  },
+  {
+    "question": "Why are hallucinations a concern in LLMs?",
+    "answer": "Hallucinations occur when LLMs generate factually incorrect or made-up information, which can mislead users and reduce reliability."
+  },
+  {
+    "question": "How do agentic AI systems handle uncertainty?",
+    "answer": "Agentic AI systems handle uncertainty through probabilistic reasoning, adaptive strategies, and sometimes by asking clarifying questions."
+  },
+  {
+    "question": "What is model fine-tuning in LLMs?",
+    "answer": "Fine-tuning is the process of adapting an existing LLM to specialize in specific tasks or domains by training it further on curated datasets."
+  },
+  {
+    "question": "How can LLMs be connected to external tools?",
+    "answer": "LLMs can be connected to external tools via APIs or plugins, enabling them to access databases, calculators, or real-time information."
+  },
+  {
+    "question": "What is retrieval-augmented generation (RAG)?",
+    "answer": "RAG is a method where an LLM retrieves relevant documents from a knowledge base before generating an informed response."
+  },
+  {
+    "question": "How does memory improve agentic AI performance?",
+    "answer": "Memory enables agentic AI to retain past interactions, experiences, or knowledge for better decision-making and contextual continuity."
+  },
+  {
+    "question": "What is autonomous decision-making in AI agents?",
+    "answer": "Autonomous decision-making is the ability of AI agents to evaluate situations, consider options, and choose actions without human guidance."
+  },
+  {
+    "question": "What is planning in Agentic AI?",
+    "answer": "Planning involves outlining a sequence of steps and strategies that an AI agent follows to achieve its goals effectively."
+  },
+  {
+    "question": "How do multi-modal LLMs differ from text-only LLMs?",
+    "answer": "Multi-modal LLMs process and generate not only text but also images, audio, and other data types, allowing richer interactions."
+  },
+  {
+    "question": "What is grounding in AI?",
+    "answer": "Grounding is the process of ensuring that AI outputs are tied to real-world data, knowledge bases, or empirical truth."
+  },
+  {
+    "question": "What advantage do agentic AI agents have over static systems?",
+    "answer": "Agentic AI agents can adapt, learn from interactions, and autonomously execute tasks, unlike static systems that follow fixed rules."
+  },
+  {
+    "question": "What are the safety challenges of LLMs?",
+    "answer": "Safety challenges include bias, misinformation, hallucinations, and potential misuse, which require careful alignment and monitoring."
+  },
+  {
+    "question": "How does ethical alignment work in LLMs?",
+    "answer": "Ethical alignment involves designing objectives, safeguards, and training methods that align LLM outputs with human values and norms."
+  },
+  {
+    "question": "What role does feedback play in agentic AI?",
+    "answer": "Feedback helps agentic AI refine its actions and reasoning, either from users, other agents, or automated systems monitoring performance."
+  },
+  {
+    "question": "Why is explainability important in AI agents?",
+    "answer": "Explainability ensures users can understand AI decisions, increasing trust, accountability, and usability in critical domains."
+  },
+  {
+    "question": "What are autonomous AI agents capable of in digital environments?",
+    "answer": "In digital environments, autonomous AI agents can browse the web, complete workflows, interact with software, and generate insights."
+  },
+  {
+    "question": "How do LLMs assist AI agents in information retrieval?",
+    "answer": "LLMs parse queries into structured forms, interpret natural language, and synthesize results from retrieved data for the agent’s use."
+  },
+  {
+    "question": "What is tool use in AI agents?",
+    "answer": "Tool use refers to an AI agent invoking external applications, APIs, or resources to solve problems beyond its intrinsic capabilities."
+  },
+  {
+    "question": "What are some real-world applications of agentic AI?",
+    "answer": "Agentic AI is used in personal assistants, automated customer service, financial analysis, healthcare diagnostics, and robotics."
+  },
+  {
+    "question": "What is the difference between passive and active AI systems?",
+    "answer": "Passive systems only respond to input, while active (agentic) AI systems anticipate needs, act proactively, and pursue goals."
+  },
+  {
+    "question": "How do collaborative AI agents operate?",
+    "answer": "Collaborative AI agents coordinate with humans or other agents to complete tasks by sharing knowledge and dividing responsibilities."
+  },
+  {
+    "question": "What is self-reflection in LLM-based agents?",
+    "answer": "Self-reflection is when the agent assesses and critiques its own reasoning or outputs to improve accuracy and reliability."
+  },
+  {
+    "question": "What is meta-learning in the context of LLMs?",
+    "answer": "Meta-learning is the ability of LLMs to learn how to learn, improving performance across new tasks with minimal additional training."
+  },
+  {
+    "question": "How does long-term memory enhance agentic AI?",
+    "answer": "Long-term memory allows AI agents to maintain continuity across sessions, remember user preferences, and refine strategies over time."
+  },
+  {
+    "question": "What is role-playing in LLM prompts?",
+    "answer": "Role-playing prompts instruct LLMs to adopt specific personas or roles to generate contextually appropriate answers."
+  },
+  {
+    "question": "How do AI agents use reasoning for problem-solving?",
+    "answer": "AI agents use logical, probabilistic, or heuristic reasoning to analyze problems and determine effective solutions."
+  },
+  {
+    "question": "What is the main risk of over-reliance on LLMs?",
+    "answer": "Over-reliance can lead to uncritical trust in incorrect outputs, overlooking errors, biases, or hallucinations in generated text."
+  },
+  {
+    "question": "What is an AI workflow orchestrator?",
+    "answer": "An AI workflow orchestrator is an agent that coordinates multiple tasks, tools, and resources to complete end-to-end processes automatically."
+  },
+  {
+    "question": "How do LLM agents adapt to new knowledge?",
+    "answer": "LLM agents adapt by integrating retrieval systems, fine-tuned updates, or external tools that supplement their static training data."
+  }
+]

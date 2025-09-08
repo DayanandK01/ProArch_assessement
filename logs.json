@@ -1,0 +1,722 @@
+[
+    {
+        "timestamp": "2025-09-06 16:39:36",
+        "query": "What are the main features of product X?",
+        "response": "The provided text does not describe a product called \"X\" or list its features.  Therefore, I don't know.",
+        "query_tokens": 11,
+        "response_tokens": 27,
+        "retrieved_doc_ids": [
+            "docs\\nike_2023_annual_report.txt",
+            "docs\\nike_2023_annual_report.txt",
+            "docs\\nike_2023_annual_report.txt",
+            "docs\\nike_2023_annual_report.txt"
+        ],
+        "retrieved_passages": [
+            "companies for the production capacity of contract manufacturers that produce our products. In addition, we and our contract \nmanufacturers compete with other companies and industries for raw materials used in our products. Our NIK E Direct operations, \nboth through our digital commerce operations and retail stores, also compete with multi-brand retailers, which sell our products \nthrough their digital platforms and physical stores, and with digital commerce platforms. In addition, we compete with respect to \nthe digital services and experiences we are able to offer our consumers, including fitness and activity apps; sport, fitness and \nwellness content and services; and digital services and features in retail stores that enhance the consumer experience.\nProduct offerings, technologies, marketing expenditures (including expenditures for advertising and endorsements), pricing, costs",
+            "future period.\nIf we are unable to anticipate consumer preferences and develop new products, we may not be able to maintain or \nincrease our revenues and profits.\nOur success depends on our ability to identify, originate and define product trends as well as to anticipate, gauge and react to \nchanging consumer demands in a timely manner. However, lead times for many of our products may make it more difficult for us \nto respond rapidly to new or changing product trends or consumer preferences. All of our products are subject to changing \nconsumer preferences that cannot be predicted with certainty. Our new products may not receive consumer acceptance as \nconsumer preferences could shift rapidly to different types of performance products or away from these types of products \naltogether, and our future success depends in part on our ability to anticipate and respond to these changes. If we fail to",
+            "products; increases in the cost of materials, labor and energy used to manufacture products; new product development and \nintroduction; the ability to secure and protect trademarks, patents and other intellectual property; product performance and \nquality; customer service; adverse publicity and an inability to maintain NIK E's reputation and brand image, including without \nlimitation, through social media or in connection with brand damaging events; the loss of significant customers or suppliers; \ndependence on distributors and licensees; business disruptions; increased costs of freight and transportation to meet delivery \ndeadlines; increases in borrowing costs due to any decline in NIK E's debt ratings; changes in business strategy or development \nplans; general risks associated with doing business outside of the United S tates, including, without limitation, exchange rate",
+            "us and review certain designs, materials and concepts for product and manufacturing, design and other process improvements \nand compliance with product safety regulations around the world. E mployee athletes, athletes engaged under sports marketing \ncontracts and other athletes wear-test and evaluate products during the design and development process.\nAs we continue to develop new technologies, we are simultaneously focused on the design of innovative products and \nexperiences incorporating such technologies throughout our product categories and consumer applications. Using market \nintelligence and research, our various design teams identify opportunities to leverage new technologies in existing categories to \nrespond to consumer preferences. The proliferation of Nike Air, Zoom, Free, Dri-FIT, Flyknit, FlyEase, ZoomX, Air Max, React and \nForward technologies, among others, typifies our dedication to designing innovative products.\nMANUFACTURING"
+        ],
+        "response_time_sec": 2.3472836017608643
+    },
+    {
+        "timestamp": "2025-09-06 16:39:38",
+        "query": "Is there any information about the 2025 financial projections?",
+        "response": "I don't know.  The provided text does not contain any information about 2025 financial projections.",
+        "query_tokens": 14,
+        "response_tokens": 22,
+        "retrieved_doc_ids": [
+            "docs\\nike_2023_annual_report.txt",
+            "docs\\nike_2023_annual_report.txt",
+            "docs\\nike_2023_annual_report.txt",
+            "docs\\nike_2023_annual_report.txt"
+        ],
+        "retrieved_passages": [
+            "\u2022Return on Invested Capital (\"ROIC\") as of May 31, 2023 was 31.5% compared to 46.5% as of May 31, 2022. ROIC is \nconsidered a non-GAAP financial measure, see \"Use of Non-GAAP Financial Measures\" for further information.\nFor discussion related to the results of operations and changes in financial condition for fiscal 2022 compared to fiscal 2021 refer \nto Part II, Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in our fiscal 2022 \nForm 10-K, which was filed with the United States Securities and Exchange Commission on July 21, 2022.\nCURRENT ECONOMIC CONDITIONS AND MARKET DYNAMICS \n\u2022 Consumer Spending:  Our fiscal 2023 growth in Revenues reflects strong demand for our products despite ongoing \nuncertainty in the global economy . We will continue to closely monitor macroeconomic conditions, including potential impacts \nof inflation and rising interest rates on consumer behavior.",
+            "to differ materially from those contained in any forward-looking statements. Given these risks and uncertainties, investors should \nnot place undue reliance on forward-looking statements as a prediction of actual results.\n2023 FORM 10-K   9    Economic and Industry Risks\nGlobal economic conditions could have a material adverse effect on our business, operating results and financial \ncondition.\nThe uncertain state of the global economy, including high and rising levels of inflation and interest rates and the risk of a \nrecession, continues to impact businesses around the world. If global economic and financial market conditions deteriorate, the \nfollowing factors, among others, could have a material adverse ef fect on our business, operating results and financial condition:\n\u2022Our sales are impacted by discretionary spending by consumers. Declines in consumer spending have in the past resulted",
+            "FISCAL 2023 COMPARED TO FISCAL 2022  \nOur effective tax rate was 18.2% for fiscal 2023, compared to 9.1% for fiscal 2022, primarily due to decreased benefits from \nstock-based compensation and a non-cash, one-time benefit in the prior year related to the onshoring of certain non-U.S . \nintangible property ownership rights.\nOn August 16, 2022, the U.S. government enacted the Inflation Reduction Act of 2022 that includes, among other provisions, \nchanges to the U.S. corporate income tax system, including a fifteen percent minimum tax based on \"adjusted financial statement \nincome,\" which is effective for NIKE beginning June 1, 2023. Based on our current analysis of the provisions, we do not expect \nthese tax law changes to have a material impact on our financial statements; however, we will continue to evaluate their impact \nas further information becomes available. \n2023 FORM 10-K   35    OPERATING SEGMENTS",
+            "The accompanying Notes to the Consolidated Financial Statements are an integral part of this statement.\n2023 FORM 10-K   57    NIKE, INC.\nCONSOLIDATED STATEMENTS OF CASH FLOWS\nYEAR ENDED MAY 31,\n(Dollars in millions) 2023 2022 2021\nCash provided (used) by operations:\nNet income $ 5,070 $ 6,046 $ 5,727 \nAdjustments to reconcile net income to net cash provided (used) by operations:\nDepreciation  703  717  744 \nDeferred income taxes  (117)  (650)  (385) \nStock-based compensation  755  638  611 \nAmortization, impairment and other  156  123  53 \nNet foreign currency adjustments  (213)  (26)  (138) \nChanges in certain working capital components and other assets and liabilities:\n(Increase) decrease in accounts receivable  489  (504)  (1,606) \n(Increase) decrease in inventories  (133)  (1,676)  507 \n(Increase) decrease in prepaid expenses, operating lease right-of-use assets and \nother current and non-current assets  (644)  (845)  (182)"
+        ],
+        "response_time_sec": 1.9585716724395752
+    },
+    {
+        "timestamp": "2025-09-06 16:39:39",
+        "query": "What is the capital of France?",
+        "response": "I don't know.",
+        "query_tokens": 8,
+        "response_tokens": 7,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json"
+        ],
+        "retrieved_passages": [
+            "What are the primary uses of oil?",
+            "What are some of the impacts of rising sea levels on coastal regions?",
+            "What is the primary cause of recent climate change?",
+            "What is coal primarily used for, and why is it significant in terms of emissions?"
+        ],
+        "response_time_sec": 1.1968274116516113
+    },
+    {
+        "timestamp": "2025-09-06 16:40:15",
+        "query": "What does climate change refer to?",
+        "response": "Climate change refers to significant, long-term changes in the global climate.\n\nSource:  (Page: 1)",
+        "query_tokens": 8,
+        "response_tokens": 24,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json"
+        ],
+        "retrieved_passages": [
+            "What does climate change refer to?",
+            "Climate change refers to significant, long-term changes in the global climate.",
+            "Climate change is altering the timing and length of seasons, affecting ecosystems and human activities.",
+            "How is climate change altering the timing and length of seasons?"
+        ],
+        "response_time_sec": 0.7404112815856934
+    },
+    {
+        "timestamp": "2025-09-06 16:40:38",
+        "query": "What does climate change refer to?",
+        "response": "Climate change refers to significant, long-term changes in the global climate.\n\nSource:  (Page: 1)",
+        "query_tokens": 8,
+        "response_tokens": 24,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json"
+        ],
+        "retrieved_passages": [
+            "What does climate change refer to?",
+            "Climate change refers to significant, long-term changes in the global climate.",
+            "Climate change is altering the timing and length of seasons, affecting ecosystems and human activities.",
+            "How is climate change altering the timing and length of seasons?"
+        ],
+        "response_time_sec": 0.7500691413879395
+    },
+    {
+        "timestamp": "2025-09-06 16:41:45",
+        "query": "what are the causes of climate change?",
+        "response": "The primary cause of recent climate change is the increase in greenhouse gases in the atmosphere.\n\nSource:  Provided text",
+        "query_tokens": 9,
+        "response_tokens": 23,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json"
+        ],
+        "retrieved_passages": [
+            "What is the primary cause of recent climate change?",
+            "What does climate change refer to?",
+            "What small variations are most climate changes attributed to?",
+            "The primary cause of recent climate change is the increase in greenhouse gases in the atmosphere."
+        ],
+        "response_time_sec": 0.7213280200958252
+    },
+    {
+        "timestamp": "2025-09-06 16:41:56",
+        "query": "what are the causes of climate change?",
+        "response": "The primary cause of recent climate change is the increase in greenhouse gases in the atmosphere.\n\nSource:  Provided text",
+        "query_tokens": 9,
+        "response_tokens": 23,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json"
+        ],
+        "retrieved_passages": [
+            "What is the primary cause of recent climate change?",
+            "What does climate change refer to?",
+            "What small variations are most climate changes attributed to?",
+            "The primary cause of recent climate change is the increase in greenhouse gases in the atmosphere."
+        ],
+        "response_time_sec": 1.0826268196105957
+    },
+    {
+        "timestamp": "2025-09-06 16:47:16",
+        "query": "what are the causes of climate change?",
+        "response": "Climate change refers to long-term shifts in temperatures and weather patterns.  These shifts may be natural, such as through variations in the solar cycle. However, since the 1800s, human activities have been the main driver of climate change, primarily due to the burning of fossil fuels (like coal, oil, and gas) which releases greenhouse gases into the atmosphere.  These gases trap heat, leading to a warming planet. While small variations in climate can be attributed to natural factors, the significant and rapid warming observed in recent decades is overwhelmingly attributed to the increase in greenhouse gas concentrations resulting from human activities.  The exact contribution of each factor to the overall change is a complex area of scientific research, but the overwhelming scientific consensus points to human activities as the primary driver of the recent, accelerated climate change.\n\n\nSources:\n* None provided for the definition of climate change or its causes beyond the statement: \"The primary cause of recent climate change is the increase in greenhouse gases in the atmosphere.\"",
+        "query_tokens": 9,
+        "response_tokens": 209,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json"
+        ],
+        "retrieved_passages": [
+            "What is the primary cause of recent climate change?",
+            "What does climate change refer to?",
+            "What small variations are most climate changes attributed to?",
+            "The primary cause of recent climate change is the increase in greenhouse gases in the atmosphere."
+        ],
+        "response_time_sec": 3.2859489917755127
+    },
+    {
+        "timestamp": "2025-09-06 16:47:44",
+        "query": "what are the causes of climate change?",
+        "response": "Climate change refers to long-term shifts in temperatures and weather patterns.  These shifts may be natural, such as through variations in the solar cycle. However, since the 1800s, human activities have been the main driver of climate change, primarily due to the burning of fossil fuels (like coal, oil, and gas) which releases greenhouse gases into the atmosphere.  These gases trap heat, leading to a warming planet. While small variations in climate can be attributed to natural factors, the significant and rapid warming observed in recent decades is overwhelmingly attributed to the increase in anthropogenic greenhouse gas emissions.  The exact mechanisms and interactions of these factors are complex and involve feedback loops within the Earth's climate system, but the dominant cause of the current, accelerated climate change is the human-induced increase in greenhouse gases.\n\nSources:\n* The provided text (Page: 1)",
+        "query_tokens": 9,
+        "response_tokens": 185,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\q_a.json"
+        ],
+        "retrieved_passages": [
+            "What is the primary cause of recent climate change?",
+            "What does climate change refer to?",
+            "What small variations are most climate changes attributed to?",
+            "The primary cause of recent climate change is the increase in greenhouse gases in the atmosphere."
+        ],
+        "response_time_sec": 2.1548352241516113
+    },
+    {
+        "timestamp": "2025-09-06 17:36:27",
+        "query": "1.\tWhat are the core architectural components and training methods behind Large Language Models (LLMs)?",
+        "response": "Large Language Models (LLMs) are built upon deep learning architectures, primarily the transformer architecture.  This architecture utilizes self-attention mechanisms to understand semantic relationships and context within long sequences of text.  The self-attention layers weigh the relevance of different parts of the input context.  Other key components include embedding layers that convert words into vector representations, and feedforward layers that perform non-linear transformations on the data.  The training process involves pre-training on massive datasets from diverse sources like books, websites, code repositories, and forums.  This unsupervised pre-training teaches the model statistical patterns in language by predicting the next word or token in a text sequence.  The ability to process input tokens in parallel, a feature of the transformer architecture, significantly speeds up training.  The scale of these models is immense, with some containing billions or even trillions of parameters, enabling their impressive capabilities in understanding and generating human-like text.  The rise of LLMs is also facilitated by advances in GPU technology and innovations in distributed training methods, allowing for the processing of the massive datasets required for effective training.\n\n\nSource: `LLM Research Report 1: A Comprehensive Survey of Large Language Models` (Page: Unspecified)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: Unspecified)",
+        "query_tokens": 22,
+        "response_tokens": 304,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_04.txt",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_06.pdf"
+        ],
+        "retrieved_passages": [
+            "LLM stands for Large Language Model, a type of AI trained on vast amounts of text data to understand and generate human-like language.",
+            "LLM Research Report 1: A Comprehensive Survey of Large Language Models\nLarge Language Models (LLMs) are a class of artificial intelligence algorithms trained to process, understand, and generate human language at scale.\nModern LLMs leverage transformer architectures, which use attention mechanisms to capture long-range dependencies in text.\nThe rise of LLMs is enabled by access to massive text corpora, advances in GPU technology, and innovations in distributed training.\nTraining LLMs requires pre-training on diverse datasets, such as Common Crawl, Wikipedia, and web forums.\nThe GPT family (Generative Pretrained Transformer) is a prominent example, starting with GPT-1 and culminating in models like GPT-4.\nOther major LLM families include LLaMA, PaLM, GLaM, LaMDA, OPT, AlexaTM, and Sparrow, each with unique use cases and specialties.\nLLMs are typically characterized by billions or even trillions of parameters, such as GLaM\u2019s 1.2 trillion and PaLM\u2019s 540B.",
+            "Unlike traditional NLP models that are task-specific, LLMs are general-purpose models capable of performing a wide range of language tasks without task-specific training.",
+            "Report 1: Introduc\u019fon to Large Language Models (LLMs) \nLarge Language Models (LLMs) are AI systems designed to understand, generate, and manipulate \nhuman language with high accuracy. They are based on deep learning architectures, primarily the \ntransformer, which uses self-a\u01a9en\u019fon mechanisms to capture seman\u019fc rela\u019fonships and context \nover long sequences of text. \nTraining and Architecture \n\uf0b7 LLMs are pretrained on massive datasets from diverse sources such as books, websites, code \nrepositories, and forums. \n\uf0b7 They learn sta\u019fs\u019fcal pa\u01a9erns in language during unsupervised pretraining by predic\u019fng the \nnext word or token in text sequences. \n\uf0b7 The transformer architecture allows parallel processing of input tokens, with a\u01a9en\u019fon layers \nemphasizing relevant parts of the context. \n\uf0b7 Key components include embedding layers conver\u019fng words to vector representa\u019fons, self-\na\u01a9en\u019fon layers for contextual weigh\u019fng, and feedforward layers for nonlinear \ntransforma\u019fons."
+        ],
+        "response_time_sec": 4.633620023727417
+    },
+    {
+        "timestamp": "2025-09-06 17:36:37",
+        "query": "1.\tWhat are the core architectural components and training methods behind Large Language Models (LLMs)?",
+        "response": "Large Language Models (LLMs) are built upon deep learning architectures, primarily the transformer architecture.  This architecture utilizes self-attention mechanisms to understand semantic relationships and context within long sequences of text.  The self-attention layers weigh the relevance of different parts of the input context, allowing the model to focus on the most important information.  Other key components include embedding layers, which convert words into vector representations, and feedforward layers, which perform non-linear transformations on the data.  The training process involves pre-training on massive datasets from diverse sources such as books, websites, code repositories, and forums.  During this unsupervised pre-training phase, the LLM learns statistical patterns in language by predicting the next word or token in a text sequence.  This allows the model to develop a general understanding of language before being fine-tuned for specific tasks.  The ability to process input tokens in parallel, a feature of the transformer architecture, significantly speeds up training and improves efficiency.\n\n\nSource: `LLM Research Report 1: A Comprehensive Survey of Large Language Models` (Page: Unspecified)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: Unspecified)",
+        "query_tokens": 22,
+        "response_tokens": 278,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_04.txt",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_06.pdf"
+        ],
+        "retrieved_passages": [
+            "LLM stands for Large Language Model, a type of AI trained on vast amounts of text data to understand and generate human-like language.",
+            "LLM Research Report 1: A Comprehensive Survey of Large Language Models\nLarge Language Models (LLMs) are a class of artificial intelligence algorithms trained to process, understand, and generate human language at scale.\nModern LLMs leverage transformer architectures, which use attention mechanisms to capture long-range dependencies in text.\nThe rise of LLMs is enabled by access to massive text corpora, advances in GPU technology, and innovations in distributed training.\nTraining LLMs requires pre-training on diverse datasets, such as Common Crawl, Wikipedia, and web forums.\nThe GPT family (Generative Pretrained Transformer) is a prominent example, starting with GPT-1 and culminating in models like GPT-4.\nOther major LLM families include LLaMA, PaLM, GLaM, LaMDA, OPT, AlexaTM, and Sparrow, each with unique use cases and specialties.\nLLMs are typically characterized by billions or even trillions of parameters, such as GLaM\u2019s 1.2 trillion and PaLM\u2019s 540B.",
+            "Unlike traditional NLP models that are task-specific, LLMs are general-purpose models capable of performing a wide range of language tasks without task-specific training.",
+            "Report 1: Introduc\u019fon to Large Language Models (LLMs) \nLarge Language Models (LLMs) are AI systems designed to understand, generate, and manipulate \nhuman language with high accuracy. They are based on deep learning architectures, primarily the \ntransformer, which uses self-a\u01a9en\u019fon mechanisms to capture seman\u019fc rela\u019fonships and context \nover long sequences of text. \nTraining and Architecture \n\uf0b7 LLMs are pretrained on massive datasets from diverse sources such as books, websites, code \nrepositories, and forums. \n\uf0b7 They learn sta\u019fs\u019fcal pa\u01a9erns in language during unsupervised pretraining by predic\u019fng the \nnext word or token in text sequences. \n\uf0b7 The transformer architecture allows parallel processing of input tokens, with a\u01a9en\u019fon layers \nemphasizing relevant parts of the context. \n\uf0b7 Key components include embedding layers conver\u019fng words to vector representa\u019fons, self-\na\u01a9en\u019fon layers for contextual weigh\u019fng, and feedforward layers for nonlinear \ntransforma\u019fons."
+        ],
+        "response_time_sec": 2.341514825820923
+    },
+    {
+        "timestamp": "2025-09-06 17:44:17",
+        "query": "1.\tWhat are the core architectural components and training methods behind Large Language Models (LLMs)?",
+        "response": "Large Language Models (LLMs) are built upon deep learning architectures, primarily the transformer architecture.  This architecture utilizes self-attention mechanisms to understand semantic relationships and context within long sequences of text.  The self-attention layers weigh the relevance of different parts of the input context.  Other key components include embedding layers that convert words into vector representations, and feedforward layers that perform non-linear transformations on the data.  The training process involves pre-training on massive datasets from diverse sources such as books, websites, code repositories, and forums.  During this unsupervised pre-training, the models learn statistical patterns in language by predicting the next word or token in a text sequence.  The transformer architecture allows for parallel processing of input tokens, making training on large datasets feasible.  The scale of these models is significant, with some containing billions or even trillions of parameters.  Examples of prominent LLM families include GPT, LLaMA, PaLM, GLaM, LaMDA, OPT, AlexaTM, and Sparrow, each with its own unique characteristics and applications.\n\n\nSource: `LLM Research Report 1: A Comprehensive Survey of Large Language Models` (Page: 1)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: 1)",
+        "query_tokens": 22,
+        "response_tokens": 293,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_04.txt",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_06.pdf"
+        ],
+        "retrieved_passages": [
+            "LLM stands for Large Language Model, a type of AI trained on vast amounts of text data to understand and generate human-like language.",
+            "LLM Research Report 1: A Comprehensive Survey of Large Language Models\nLarge Language Models (LLMs) are a class of artificial intelligence algorithms trained to process, understand, and generate human language at scale.\nModern LLMs leverage transformer architectures, which use attention mechanisms to capture long-range dependencies in text.\nThe rise of LLMs is enabled by access to massive text corpora, advances in GPU technology, and innovations in distributed training.\nTraining LLMs requires pre-training on diverse datasets, such as Common Crawl, Wikipedia, and web forums.\nThe GPT family (Generative Pretrained Transformer) is a prominent example, starting with GPT-1 and culminating in models like GPT-4.\nOther major LLM families include LLaMA, PaLM, GLaM, LaMDA, OPT, AlexaTM, and Sparrow, each with unique use cases and specialties.\nLLMs are typically characterized by billions or even trillions of parameters, such as GLaM\u2019s 1.2 trillion and PaLM\u2019s 540B.",
+            "Unlike traditional NLP models that are task-specific, LLMs are general-purpose models capable of performing a wide range of language tasks without task-specific training.",
+            "Report 1: Introduc\u019fon to Large Language Models (LLMs) \nLarge Language Models (LLMs) are AI systems designed to understand, generate, and manipulate \nhuman language with high accuracy. They are based on deep learning architectures, primarily the \ntransformer, which uses self-a\u01a9en\u019fon mechanisms to capture seman\u019fc rela\u019fonships and context \nover long sequences of text. \nTraining and Architecture \n\uf0b7 LLMs are pretrained on massive datasets from diverse sources such as books, websites, code \nrepositories, and forums. \n\uf0b7 They learn sta\u019fs\u019fcal pa\u01a9erns in language during unsupervised pretraining by predic\u019fng the \nnext word or token in text sequences. \n\uf0b7 The transformer architecture allows parallel processing of input tokens, with a\u01a9en\u019fon layers \nemphasizing relevant parts of the context. \n\uf0b7 Key components include embedding layers conver\u019fng words to vector representa\u019fons, self-\na\u01a9en\u019fon layers for contextual weigh\u019fng, and feedforward layers for nonlinear \ntransforma\u019fons."
+        ],
+        "response_time_sec": 4.7495276927948
+    },
+    {
+        "timestamp": "2025-09-06 17:44:26",
+        "query": "1.\tWhat are the core architectural components and training methods behind Large Language Models (LLMs)?",
+        "response": "Large Language Models (LLMs) are built upon deep learning architectures, primarily the transformer architecture.  This architecture utilizes self-attention mechanisms to understand semantic relationships and context within long sequences of text.  The self-attention layers weigh the relevance of different parts of the input context, allowing the model to focus on the most important information.  Other key components include embedding layers, which convert words into vector representations, and feedforward layers, which perform non-linear transformations on the data.  The training process involves pre-training on massive datasets from diverse sources such as books, websites, code repositories, and forums.  During this unsupervised pre-training phase, the LLM learns statistical patterns in language by predicting the next word or token in a text sequence.  This allows the model to develop a general understanding of language before being fine-tuned for specific tasks.  The ability to process input tokens in parallel, a feature of the transformer architecture, significantly speeds up training and improves efficiency.\n\nSource: `LLM Research Report 1: A Comprehensive Survey of Large Language Models` (Page: Unspecified)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: Unspecified)",
+        "query_tokens": 22,
+        "response_tokens": 278,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_04.txt",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_06.pdf"
+        ],
+        "retrieved_passages": [
+            "LLM stands for Large Language Model, a type of AI trained on vast amounts of text data to understand and generate human-like language.",
+            "LLM Research Report 1: A Comprehensive Survey of Large Language Models\nLarge Language Models (LLMs) are a class of artificial intelligence algorithms trained to process, understand, and generate human language at scale.\nModern LLMs leverage transformer architectures, which use attention mechanisms to capture long-range dependencies in text.\nThe rise of LLMs is enabled by access to massive text corpora, advances in GPU technology, and innovations in distributed training.\nTraining LLMs requires pre-training on diverse datasets, such as Common Crawl, Wikipedia, and web forums.\nThe GPT family (Generative Pretrained Transformer) is a prominent example, starting with GPT-1 and culminating in models like GPT-4.\nOther major LLM families include LLaMA, PaLM, GLaM, LaMDA, OPT, AlexaTM, and Sparrow, each with unique use cases and specialties.\nLLMs are typically characterized by billions or even trillions of parameters, such as GLaM\u2019s 1.2 trillion and PaLM\u2019s 540B.",
+            "Unlike traditional NLP models that are task-specific, LLMs are general-purpose models capable of performing a wide range of language tasks without task-specific training.",
+            "Report 1: Introduc\u019fon to Large Language Models (LLMs) \nLarge Language Models (LLMs) are AI systems designed to understand, generate, and manipulate \nhuman language with high accuracy. They are based on deep learning architectures, primarily the \ntransformer, which uses self-a\u01a9en\u019fon mechanisms to capture seman\u019fc rela\u019fonships and context \nover long sequences of text. \nTraining and Architecture \n\uf0b7 LLMs are pretrained on massive datasets from diverse sources such as books, websites, code \nrepositories, and forums. \n\uf0b7 They learn sta\u019fs\u019fcal pa\u01a9erns in language during unsupervised pretraining by predic\u019fng the \nnext word or token in text sequences. \n\uf0b7 The transformer architecture allows parallel processing of input tokens, with a\u01a9en\u019fon layers \nemphasizing relevant parts of the context. \n\uf0b7 Key components include embedding layers conver\u019fng words to vector representa\u019fons, self-\na\u01a9en\u019fon layers for contextual weigh\u019fng, and feedforward layers for nonlinear \ntransforma\u019fons."
+        ],
+        "response_time_sec": 2.393853187561035
+    },
+    {
+        "timestamp": "2025-09-07 12:19:36",
+        "query": "1.\tWhat are the core architectural components and training methods behind Large Language Models (LLMs)?",
+        "response": "Large Language Models (LLMs) are built upon deep learning architectures, primarily the transformer architecture.  This architecture utilizes self-attention mechanisms to understand semantic relationships and context within long sequences of text.  The self-attention layers weigh the relevance of different parts of the input context, allowing the model to focus on the most important information.  Other key components include embedding layers, which convert words into vector representations, and feedforward layers, which perform non-linear transformations on the data.  The training process involves pre-training on massive datasets from diverse sources such as books, websites, code repositories, and forums.  During this unsupervised pre-training phase, the LLM learns statistical patterns in language by predicting the next word or token in a text sequence.  This allows the model to develop a general understanding of language before being fine-tuned for specific tasks.  The ability to process input tokens in parallel, a feature of the transformer architecture, significantly speeds up training and improves efficiency.\n\n\nSource: `LLM Research Report 1: A Comprehensive Survey of Large Language Models` (Page: Unspecified)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: Unspecified)",
+        "query_tokens": 22,
+        "response_tokens": 278,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_04.txt",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_06.pdf"
+        ],
+        "retrieved_passages": [
+            "LLM stands for Large Language Model, a type of AI trained on vast amounts of text data to understand and generate human-like language.",
+            "LLM Research Report 1: A Comprehensive Survey of Large Language Models\nLarge Language Models (LLMs) are a class of artificial intelligence algorithms trained to process, understand, and generate human language at scale.\nModern LLMs leverage transformer architectures, which use attention mechanisms to capture long-range dependencies in text.\nThe rise of LLMs is enabled by access to massive text corpora, advances in GPU technology, and innovations in distributed training.\nTraining LLMs requires pre-training on diverse datasets, such as Common Crawl, Wikipedia, and web forums.\nThe GPT family (Generative Pretrained Transformer) is a prominent example, starting with GPT-1 and culminating in models like GPT-4.\nOther major LLM families include LLaMA, PaLM, GLaM, LaMDA, OPT, AlexaTM, and Sparrow, each with unique use cases and specialties.\nLLMs are typically characterized by billions or even trillions of parameters, such as GLaM\u2019s 1.2 trillion and PaLM\u2019s 540B.",
+            "Unlike traditional NLP models that are task-specific, LLMs are general-purpose models capable of performing a wide range of language tasks without task-specific training.",
+            "Report 1: Introduc\u019fon to Large Language Models (LLMs) \nLarge Language Models (LLMs) are AI systems designed to understand, generate, and manipulate \nhuman language with high accuracy. They are based on deep learning architectures, primarily the \ntransformer, which uses self-a\u01a9en\u019fon mechanisms to capture seman\u019fc rela\u019fonships and context \nover long sequences of text. \nTraining and Architecture \n\uf0b7 LLMs are pretrained on massive datasets from diverse sources such as books, websites, code \nrepositories, and forums. \n\uf0b7 They learn sta\u019fs\u019fcal pa\u01a9erns in language during unsupervised pretraining by predic\u019fng the \nnext word or token in text sequences. \n\uf0b7 The transformer architecture allows parallel processing of input tokens, with a\u01a9en\u019fon layers \nemphasizing relevant parts of the context. \n\uf0b7 Key components include embedding layers conver\u019fng words to vector representa\u019fons, self-\na\u01a9en\u019fon layers for contextual weigh\u019fng, and feedforward layers for nonlinear \ntransforma\u019fons."
+        ],
+        "response_time_sec": 8.498929738998413
+    },
+    {
+        "timestamp": "2025-09-07 12:20:02",
+        "query": "1.\tWhat are the core architectural components and training methods behind Large Language Models (LLMs)?",
+        "response": "Large Language Models (LLMs) are built upon deep learning architectures, primarily the transformer architecture.  This architecture utilizes self-attention mechanisms to understand semantic relationships and context within long sequences of text.  The self-attention layers weigh the relevance of different parts of the input context.  Other key components include embedding layers, which convert words into vector representations, and feedforward layers, which perform non-linear transformations on the data.  The training process involves pre-training on massive datasets from diverse sources like books, websites, code repositories, and forums.  This unsupervised pre-training teaches the model statistical patterns in language by predicting the next word or token in a sequence.  The ability to process input tokens in parallel, a feature of the transformer architecture, significantly speeds up training.  The scale of these models is immense, with some containing billions or even trillions of parameters.  The rise of LLMs is also facilitated by advances in GPU technology and innovations in distributed training methods.\n\n\nSource: `LLM Research Report 1: A Comprehensive Survey of Large Language Models` (Page: Unspecified)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: Unspecified)",
+        "query_tokens": 22,
+        "response_tokens": 275,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_04.txt",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_06.pdf"
+        ],
+        "retrieved_passages": [
+            "LLM stands for Large Language Model, a type of AI trained on vast amounts of text data to understand and generate human-like language.",
+            "LLM Research Report 1: A Comprehensive Survey of Large Language Models\nLarge Language Models (LLMs) are a class of artificial intelligence algorithms trained to process, understand, and generate human language at scale.\nModern LLMs leverage transformer architectures, which use attention mechanisms to capture long-range dependencies in text.\nThe rise of LLMs is enabled by access to massive text corpora, advances in GPU technology, and innovations in distributed training.\nTraining LLMs requires pre-training on diverse datasets, such as Common Crawl, Wikipedia, and web forums.\nThe GPT family (Generative Pretrained Transformer) is a prominent example, starting with GPT-1 and culminating in models like GPT-4.\nOther major LLM families include LLaMA, PaLM, GLaM, LaMDA, OPT, AlexaTM, and Sparrow, each with unique use cases and specialties.\nLLMs are typically characterized by billions or even trillions of parameters, such as GLaM\u2019s 1.2 trillion and PaLM\u2019s 540B.",
+            "Unlike traditional NLP models that are task-specific, LLMs are general-purpose models capable of performing a wide range of language tasks without task-specific training.",
+            "Report 1: Introduc\u019fon to Large Language Models (LLMs) \nLarge Language Models (LLMs) are AI systems designed to understand, generate, and manipulate \nhuman language with high accuracy. They are based on deep learning architectures, primarily the \ntransformer, which uses self-a\u01a9en\u019fon mechanisms to capture seman\u019fc rela\u019fonships and context \nover long sequences of text. \nTraining and Architecture \n\uf0b7 LLMs are pretrained on massive datasets from diverse sources such as books, websites, code \nrepositories, and forums. \n\uf0b7 They learn sta\u019fs\u019fcal pa\u01a9erns in language during unsupervised pretraining by predic\u019fng the \nnext word or token in text sequences. \n\uf0b7 The transformer architecture allows parallel processing of input tokens, with a\u01a9en\u019fon layers \nemphasizing relevant parts of the context. \n\uf0b7 Key components include embedding layers conver\u019fng words to vector representa\u019fons, self-\na\u01a9en\u019fon layers for contextual weigh\u019fng, and feedforward layers for nonlinear \ntransforma\u019fons."
+        ],
+        "response_time_sec": 2.4807629585266113
+    },
+    {
+        "timestamp": "2025-09-07 12:23:16",
+        "query": "What is the capital of France?",
+        "response": "I don't know. The information is not in the provided documents.",
+        "query_tokens": 8,
+        "response_tokens": 16,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json"
+        ],
+        "retrieved_passages": [
+            "What is task decomposition in agent planning?",
+            "What is autonomous decision-making in AI agents?",
+            "What is cognitive architecture in AI agents?",
+            "What is the role of simulation environments in training AI agents?"
+        ],
+        "response_time_sec": 5.337937116622925
+    },
+    {
+        "timestamp": "2025-09-07 12:23:26",
+        "query": "What is the capital of France?",
+        "response": "I don't know. The information is not in the provided documents.",
+        "query_tokens": 8,
+        "response_tokens": 16,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json"
+        ],
+        "retrieved_passages": [
+            "What is task decomposition in agent planning?",
+            "What is autonomous decision-making in AI agents?",
+            "What is cognitive architecture in AI agents?",
+            "What is the role of simulation environments in training AI agents?"
+        ],
+        "response_time_sec": 3.080501079559326
+    },
+    {
+        "timestamp": "2025-09-08 14:44:47",
+        "query": "What are the main features of product X?",
+        "response": "The provided text describes the capabilities of a system, likely a type of AI, but it does not specify features of a product named \"X\".  Therefore, I don't know what the main features of product X are.  The text only mentions general functionalities such as automating workflows, analyzing data, providing decision support, predicting demand, optimizing logistics, detecting disruptions, and automating procurement.  These are capabilities that could be found in many different products, and without further information about product X, I cannot describe its specific features.",
+        "query_tokens": 11,
+        "response_tokens": 119,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json"
+        ],
+        "retrieved_passages": [
+            "They automate repetitive workflows, analyze data trends, and provide decision support, reducing costs and increasing productivity.",
+            "They can predict demand, optimize logistics, detect disruptions, and automate procurement in real time.",
+            "What is the difference between open-source and proprietary LLMs?",
+            "What makes LLMs general-purpose models?"
+        ],
+        "response_time_sec": 2.0054988861083984
+    },
+    {
+        "timestamp": "2025-09-08 14:44:48",
+        "query": "Is there any information about the 2025 financial projections?",
+        "response": "I don't know.  The provided text discusses AI agents and their potential applications in finance, including predictions, optimization, disruption detection, and automation, but it does not contain any information about financial projections for 2025.",
+        "query_tokens": 14,
+        "response_tokens": 47,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json"
+        ],
+        "retrieved_passages": [
+            "What advancements are expected in future LLMs?",
+            "How can AI agents revolutionize finance?",
+            "They can predict demand, optimize logistics, detect disruptions, and automate procurement in real time.",
+            "What risks come with autonomous financial trading agents?"
+        ],
+        "response_time_sec": 0.9283781051635742
+    },
+    {
+        "timestamp": "2025-09-08 14:44:49",
+        "query": "What is the capital of France?",
+        "response": "I don't know. The information is not in the provided documents.",
+        "query_tokens": 8,
+        "response_tokens": 16,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json"
+        ],
+        "retrieved_passages": [
+            "What is task decomposition in agent planning?",
+            "What is autonomous decision-making in AI agents?",
+            "What is cognitive architecture in AI agents?",
+            "What is the role of simulation environments in training AI agents?"
+        ],
+        "response_time_sec": 1.0906410217285156
+    },
+    {
+        "timestamp": "2025-09-08 15:02:14",
+        "query": "What are the main features of product X?",
+        "response": "The provided text describes the capabilities of a system, likely a type of AI, but it does not specify features of a product named \"X\".  Therefore, I don't know what the main features of product X are.  The text only mentions general functionalities such as automating workflows, analyzing data, providing decision support, predicting demand, optimizing logistics, detecting disruptions, and automating procurement.  These are capabilities that could be found in many different products, not just a specific product \"X\".",
+        "query_tokens": 11,
+        "response_tokens": 112,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json"
+        ],
+        "retrieved_passages": [
+            "They automate repetitive workflows, analyze data trends, and provide decision support, reducing costs and increasing productivity.",
+            "They can predict demand, optimize logistics, detect disruptions, and automate procurement in real time.",
+            "What is the difference between open-source and proprietary LLMs?",
+            "What makes LLMs general-purpose models?"
+        ],
+        "response_time_sec": 12.373399019241333
+    },
+    {
+        "timestamp": "2025-09-08 15:02:15",
+        "query": "Is there any information about the 2025 financial projections?",
+        "response": "I don't know.  The provided text discusses AI agents and their potential applications in finance, including predictions, optimization, disruption detection, and automation, but it does not contain any information about financial projections for 2025.",
+        "query_tokens": 14,
+        "response_tokens": 47,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json"
+        ],
+        "retrieved_passages": [
+            "What advancements are expected in future LLMs?",
+            "How can AI agents revolutionize finance?",
+            "They can predict demand, optimize logistics, detect disruptions, and automate procurement in real time.",
+            "What risks come with autonomous financial trading agents?"
+        ],
+        "response_time_sec": 1.0033512115478516
+    },
+    {
+        "timestamp": "2025-09-08 15:02:16",
+        "query": "What is the capital of France?",
+        "response": "I don't know. The information is not in the provided documents.",
+        "query_tokens": 8,
+        "response_tokens": 16,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json"
+        ],
+        "retrieved_passages": [
+            "What is task decomposition in agent planning?",
+            "What is autonomous decision-making in AI agents?",
+            "What is cognitive architecture in AI agents?",
+            "What is the role of simulation environments in training AI agents?"
+        ],
+        "response_time_sec": 0.8009364604949951
+    },
+    {
+        "timestamp": "2025-09-08 15:25:39",
+        "query": "What are the main features of product X?",
+        "response": "The provided text describes the capabilities of a system, likely a type of AI, but it does not specify features of a product named \"X\".  Therefore, I don't know what the main features of product X are.  The text only mentions general functionalities such as automating workflows, analyzing data, providing decision support, predicting demand, optimizing logistics, detecting disruptions, and automating procurement.  These are capabilities that could be found in many different products, and without further information about product X, I cannot describe its specific features.",
+        "query_tokens": 11,
+        "response_tokens": 119,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json"
+        ],
+        "retrieved_passages": [
+            "They automate repetitive workflows, analyze data trends, and provide decision support, reducing costs and increasing productivity.",
+            "They can predict demand, optimize logistics, detect disruptions, and automate procurement in real time.",
+            "What is the difference between open-source and proprietary LLMs?",
+            "What makes LLMs general-purpose models?"
+        ],
+        "response_time_sec": 2.177696704864502
+    },
+    {
+        "timestamp": "2025-09-08 15:25:40",
+        "query": "Is there any information about the 2025 financial projections?",
+        "response": "I don't know.  The provided text discusses AI agents and their potential applications in finance, including predictions, optimization, disruption detection, and automation, but it does not contain any information about financial projections for 2025.",
+        "query_tokens": 14,
+        "response_tokens": 47,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json"
+        ],
+        "retrieved_passages": [
+            "What advancements are expected in future LLMs?",
+            "How can AI agents revolutionize finance?",
+            "They can predict demand, optimize logistics, detect disruptions, and automate procurement in real time.",
+            "What risks come with autonomous financial trading agents?"
+        ],
+        "response_time_sec": 1.0658035278320312
+    },
+    {
+        "timestamp": "2025-09-08 15:25:41",
+        "query": "What is the capital of France?",
+        "response": "I don't know. The information is not in the provided documents.",
+        "query_tokens": 8,
+        "response_tokens": 16,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json"
+        ],
+        "retrieved_passages": [
+            "What is task decomposition in agent planning?",
+            "What is autonomous decision-making in AI agents?",
+            "What is cognitive architecture in AI agents?",
+            "What is the role of simulation environments in training AI agents?"
+        ],
+        "response_time_sec": 0.9373877048492432
+    },
+    {
+        "timestamp": "2025-09-08 15:26:11",
+        "query": "What are the core architectural components and training methods behind Large Language Models (LLMs)?",
+        "response": "Large Language Models (LLMs) are built upon deep learning architectures, primarily the transformer.  The transformer architecture utilizes self-attention mechanisms to understand semantic relationships and context within long sequences of text.  This allows the model to process input tokens in parallel, with attention layers focusing on the most relevant parts of the context.  Key components include embedding layers that convert words into vector representations, self-attention layers for contextual weighting, and feedforward layers for nonlinear transformations.  The training process involves pre-training on massive datasets from diverse sources such as books, websites, code repositories, and forums.  During this unsupervised pre-training phase, the LLMs learn statistical patterns in language by predicting the next word or token in text sequences.  This allows them to develop a general understanding of language that can then be applied to a wide range of tasks.\n\n\nSource: `LLM Research Report 1: A Comprehensive Survey of Large Language Models` (Page: 1)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: 1)",
+        "query_tokens": 21,
+        "response_tokens": 244,
+        "retrieved_doc_ids": [
+            "docs\\llm_04.txt",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_06.pdf"
+        ],
+        "retrieved_passages": [
+            "LLM Research Report 1: A Comprehensive Survey of Large Language Models\nLarge Language Models (LLMs) are a class of artificial intelligence algorithms trained to process, understand, and generate human language at scale.\nModern LLMs leverage transformer architectures, which use attention mechanisms to capture long-range dependencies in text.\nThe rise of LLMs is enabled by access to massive text corpora, advances in GPU technology, and innovations in distributed training.\nTraining LLMs requires pre-training on diverse datasets, such as Common Crawl, Wikipedia, and web forums.\nThe GPT family (Generative Pretrained Transformer) is a prominent example, starting with GPT-1 and culminating in models like GPT-4.\nOther major LLM families include LLaMA, PaLM, GLaM, LaMDA, OPT, AlexaTM, and Sparrow, each with unique use cases and specialties.\nLLMs are typically characterized by billions or even trillions of parameters, such as GLaM\u2019s 1.2 trillion and PaLM\u2019s 540B.",
+            "LLM stands for Large Language Model, a type of AI trained on vast amounts of text data to understand and generate human-like language.",
+            "Unlike traditional NLP models that are task-specific, LLMs are general-purpose models capable of performing a wide range of language tasks without task-specific training.",
+            "Report 1: Introduc\u019fon to Large Language Models (LLMs) \nLarge Language Models (LLMs) are AI systems designed to understand, generate, and manipulate \nhuman language with high accuracy. They are based on deep learning architectures, primarily the \ntransformer, which uses self-a\u01a9en\u019fon mechanisms to capture seman\u019fc rela\u019fonships and context \nover long sequences of text. \nTraining and Architecture \n\uf0b7 LLMs are pretrained on massive datasets from diverse sources such as books, websites, code \nrepositories, and forums. \n\uf0b7 They learn sta\u019fs\u019fcal pa\u01a9erns in language during unsupervised pretraining by predic\u019fng the \nnext word or token in text sequences. \n\uf0b7 The transformer architecture allows parallel processing of input tokens, with a\u01a9en\u019fon layers \nemphasizing relevant parts of the context. \n\uf0b7 Key components include embedding layers conver\u019fng words to vector representa\u019fons, self-\na\u01a9en\u019fon layers for contextual weigh\u019fng, and feedforward layers for nonlinear \ntransforma\u019fons."
+        ],
+        "response_time_sec": 5.023064851760864
+    },
+    {
+        "timestamp": "2025-09-08 15:26:19",
+        "query": "What are the core architectural components and training methods behind Large Language Models (LLMs)?",
+        "response": "Large Language Models (LLMs) are built upon deep learning architectures, primarily the transformer architecture.  This architecture utilizes self-attention mechanisms to understand semantic relationships and context within long sequences of text.  The training process involves pre-training on massive datasets sourced from diverse locations such as books, websites, code repositories, and forums.  During this unsupervised pre-training phase, the LLMs learn statistical patterns in language by predicting the next word or token in a given text sequence.  Key components within the transformer architecture include embedding layers that convert words into vector representations, self-attention layers that contextually weigh the importance of different parts of the input, and feedforward layers that perform non-linear transformations on the data.  The ability to process input tokens in parallel, a feature of the transformer architecture, is crucial for the efficiency of LLMs.\n\nSource: `LLM Research Report 1: A Comprehensive Survey of Large Language Models` (Page: 1)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: 1)",
+        "query_tokens": 21,
+        "response_tokens": 243,
+        "retrieved_doc_ids": [
+            "docs\\llm_04.txt",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "docs\\llm_06.pdf"
+        ],
+        "retrieved_passages": [
+            "LLM Research Report 1: A Comprehensive Survey of Large Language Models\nLarge Language Models (LLMs) are a class of artificial intelligence algorithms trained to process, understand, and generate human language at scale.\nModern LLMs leverage transformer architectures, which use attention mechanisms to capture long-range dependencies in text.\nThe rise of LLMs is enabled by access to massive text corpora, advances in GPU technology, and innovations in distributed training.\nTraining LLMs requires pre-training on diverse datasets, such as Common Crawl, Wikipedia, and web forums.\nThe GPT family (Generative Pretrained Transformer) is a prominent example, starting with GPT-1 and culminating in models like GPT-4.\nOther major LLM families include LLaMA, PaLM, GLaM, LaMDA, OPT, AlexaTM, and Sparrow, each with unique use cases and specialties.\nLLMs are typically characterized by billions or even trillions of parameters, such as GLaM\u2019s 1.2 trillion and PaLM\u2019s 540B.",
+            "LLM stands for Large Language Model, a type of AI trained on vast amounts of text data to understand and generate human-like language.",
+            "Unlike traditional NLP models that are task-specific, LLMs are general-purpose models capable of performing a wide range of language tasks without task-specific training.",
+            "Report 1: Introduc\u019fon to Large Language Models (LLMs) \nLarge Language Models (LLMs) are AI systems designed to understand, generate, and manipulate \nhuman language with high accuracy. They are based on deep learning architectures, primarily the \ntransformer, which uses self-a\u01a9en\u019fon mechanisms to capture seman\u019fc rela\u019fonships and context \nover long sequences of text. \nTraining and Architecture \n\uf0b7 LLMs are pretrained on massive datasets from diverse sources such as books, websites, code \nrepositories, and forums. \n\uf0b7 They learn sta\u019fs\u019fcal pa\u01a9erns in language during unsupervised pretraining by predic\u019fng the \nnext word or token in text sequences. \n\uf0b7 The transformer architecture allows parallel processing of input tokens, with a\u01a9en\u019fon layers \nemphasizing relevant parts of the context. \n\uf0b7 Key components include embedding layers conver\u019fng words to vector representa\u019fons, self-\na\u01a9en\u019fon layers for contextual weigh\u019fng, and feedforward layers for nonlinear \ntransforma\u019fons."
+        ],
+        "response_time_sec": 6.7772536277771
+    },
+    {
+        "timestamp": "2025-09-08 16:19:23",
+        "query": "What are the main features of product X?",
+        "response": "The provided text describes the capabilities of a system, likely a type of AI, but it does not specify features of a product named \"X\".  Therefore, I don't know what the main features of product X are.  The text only mentions general functionalities such as automating workflows, analyzing data, providing decision support, predicting demand, optimizing logistics, detecting disruptions, and automating procurement.  These are capabilities that could be found in many different products, but they don't define the specific features of a product called \"X\".",
+        "query_tokens": 11,
+        "response_tokens": 120,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json"
+        ],
+        "retrieved_passages": [
+            "They automate repetitive workflows, analyze data trends, and provide decision support, reducing costs and increasing productivity.",
+            "They can predict demand, optimize logistics, detect disruptions, and automate procurement in real time.",
+            "What is the difference between open-source and proprietary LLMs?",
+            "What makes LLMs general-purpose models?"
+        ],
+        "response_time_sec": 2.4953064918518066
+    },
+    {
+        "timestamp": "2025-09-08 16:19:26",
+        "query": "Is there any information about the 2025 financial projections?",
+        "response": "I don't know.  The provided text discusses AI agents and their potential applications in finance, including predictions, optimization, disruption detection, and automation, but it does not contain any information about financial projections for 2025.",
+        "query_tokens": 14,
+        "response_tokens": 47,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json"
+        ],
+        "retrieved_passages": [
+            "What advancements are expected in future LLMs?",
+            "How can AI agents revolutionize finance?",
+            "They can predict demand, optimize logistics, detect disruptions, and automate procurement in real time.",
+            "What risks come with autonomous financial trading agents?"
+        ],
+        "response_time_sec": 2.7307257652282715
+    },
+    {
+        "timestamp": "2025-09-08 16:19:29",
+        "query": "What is the capital of France?",
+        "response": "I don't know. The information is not in the provided documents.",
+        "query_tokens": 8,
+        "response_tokens": 16,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json"
+        ],
+        "retrieved_passages": [
+            "What is task decomposition in agent planning?",
+            "What is autonomous decision-making in AI agents?",
+            "What is cognitive architecture in AI agents?",
+            "What is the role of simulation environments in training AI agents?"
+        ],
+        "response_time_sec": 2.3978817462921143
+    },
+    {
+        "timestamp": "2025-09-08 16:20:37",
+        "query": "what are the core architectural components and training methods behind large language models?",
+        "response": "Large Language Models (LLMs) are built upon deep learning architectures, primarily the transformer.  The transformer architecture utilizes self-attention mechanisms to understand the semantic relationships and context within long sequences of text. This allows the model to process input tokens in parallel, focusing on the most relevant parts of the context through attention layers.  Key components include embedding layers that convert words into vector representations, self-attention layers that weigh the contextual importance of different parts of the input, and feedforward layers that perform non-linear transformations on the data.  The training process involves pre-training on massive datasets sourced from diverse locations such as books, websites, code repositories, and forums.  During this unsupervised pre-training phase, the LLM learns statistical patterns in language by predicting the next word or token in a given text sequence.  This allows the model to develop a general understanding of language before being fine-tuned for specific tasks.  The scale of these models, often involving billions or trillions of parameters, is a crucial factor in their performance.\n\n\nSource: `LLM Research Report 1: A Comprehensive Survey of Large Language Models` (Page: 1)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: 1)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: 2)",
+        "query_tokens": 15,
+        "response_tokens": 315,
+        "retrieved_doc_ids": [
+            "docs\\llm_04.txt",
+            "docs\\llm_06.pdf",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json"
+        ],
+        "retrieved_passages": [
+            "LLM Research Report 1: A Comprehensive Survey of Large Language Models\nLarge Language Models (LLMs) are a class of artificial intelligence algorithms trained to process, understand, and generate human language at scale.\nModern LLMs leverage transformer architectures, which use attention mechanisms to capture long-range dependencies in text.\nThe rise of LLMs is enabled by access to massive text corpora, advances in GPU technology, and innovations in distributed training.\nTraining LLMs requires pre-training on diverse datasets, such as Common Crawl, Wikipedia, and web forums.\nThe GPT family (Generative Pretrained Transformer) is a prominent example, starting with GPT-1 and culminating in models like GPT-4.\nOther major LLM families include LLaMA, PaLM, GLaM, LaMDA, OPT, AlexaTM, and Sparrow, each with unique use cases and specialties.\nLLMs are typically characterized by billions or even trillions of parameters, such as GLaM\u2019s 1.2 trillion and PaLM\u2019s 540B.",
+            "Report 1: Introduc\u019fon to Large Language Models (LLMs) \nLarge Language Models (LLMs) are AI systems designed to understand, generate, and manipulate \nhuman language with high accuracy. They are based on deep learning architectures, primarily the \ntransformer, which uses self-a\u01a9en\u019fon mechanisms to capture seman\u019fc rela\u019fonships and context \nover long sequences of text. \nTraining and Architecture \n\uf0b7 LLMs are pretrained on massive datasets from diverse sources such as books, websites, code \nrepositories, and forums. \n\uf0b7 They learn sta\u019fs\u019fcal pa\u01a9erns in language during unsupervised pretraining by predic\u019fng the \nnext word or token in text sequences. \n\uf0b7 The transformer architecture allows parallel processing of input tokens, with a\u01a9en\u019fon layers \nemphasizing relevant parts of the context. \n\uf0b7 Key components include embedding layers conver\u019fng words to vector representa\u019fons, self-\na\u01a9en\u019fon layers for contextual weigh\u019fng, and feedforward layers for nonlinear \ntransforma\u019fons.",
+            "LLM stands for Large Language Model, a type of AI trained on vast amounts of text data to understand and generate human-like language.",
+            "Unlike traditional NLP models that are task-specific, LLMs are general-purpose models capable of performing a wide range of language tasks without task-specific training."
+        ],
+        "response_time_sec": 3.840980052947998
+    },
+    {
+        "timestamp": "2025-09-08 16:21:05",
+        "query": "what are the core architectural components and training methods behind large language models?",
+        "response": "Large Language Models (LLMs) are built upon deep learning architectures, primarily the transformer.  The transformer architecture utilizes self-attention mechanisms to understand the semantic relationships and context within long sequences of text. This allows the model to process input tokens in parallel, focusing on the most relevant parts of the context through attention layers.  Key components include embedding layers that convert words into vector representations, self-attention layers for contextual weighting, and feedforward layers for non-linear transformations.  The training process involves pre-training on massive datasets from diverse sources such as books, websites, code repositories, and forums.  During this unsupervised pre-training phase, the LLM learns statistical patterns in language by predicting the next word or token in a text sequence.  This allows the model to develop a general understanding of language before being fine-tuned for specific tasks.  The scale of these models, often involving billions or trillions of parameters, is a crucial factor in their performance.\n\n\nSource: `LLM Research Report 1: A Comprehensive Survey of Large Language Models` (Page: 1)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: 1)\nSource: `Report 1: Introduc\u019fon to Large Language Models (LLMs)` (Page: 2)",
+        "query_tokens": 15,
+        "response_tokens": 301,
+        "retrieved_doc_ids": [
+            "docs\\llm_04.txt",
+            "docs\\llm_06.pdf",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json"
+        ],
+        "retrieved_passages": [
+            "LLM Research Report 1: A Comprehensive Survey of Large Language Models\nLarge Language Models (LLMs) are a class of artificial intelligence algorithms trained to process, understand, and generate human language at scale.\nModern LLMs leverage transformer architectures, which use attention mechanisms to capture long-range dependencies in text.\nThe rise of LLMs is enabled by access to massive text corpora, advances in GPU technology, and innovations in distributed training.\nTraining LLMs requires pre-training on diverse datasets, such as Common Crawl, Wikipedia, and web forums.\nThe GPT family (Generative Pretrained Transformer) is a prominent example, starting with GPT-1 and culminating in models like GPT-4.\nOther major LLM families include LLaMA, PaLM, GLaM, LaMDA, OPT, AlexaTM, and Sparrow, each with unique use cases and specialties.\nLLMs are typically characterized by billions or even trillions of parameters, such as GLaM\u2019s 1.2 trillion and PaLM\u2019s 540B.",
+            "Report 1: Introduc\u019fon to Large Language Models (LLMs) \nLarge Language Models (LLMs) are AI systems designed to understand, generate, and manipulate \nhuman language with high accuracy. They are based on deep learning architectures, primarily the \ntransformer, which uses self-a\u01a9en\u019fon mechanisms to capture seman\u019fc rela\u019fonships and context \nover long sequences of text. \nTraining and Architecture \n\uf0b7 LLMs are pretrained on massive datasets from diverse sources such as books, websites, code \nrepositories, and forums. \n\uf0b7 They learn sta\u019fs\u019fcal pa\u01a9erns in language during unsupervised pretraining by predic\u019fng the \nnext word or token in text sequences. \n\uf0b7 The transformer architecture allows parallel processing of input tokens, with a\u01a9en\u019fon layers \nemphasizing relevant parts of the context. \n\uf0b7 Key components include embedding layers conver\u019fng words to vector representa\u019fons, self-\na\u01a9en\u019fon layers for contextual weigh\u019fng, and feedforward layers for nonlinear \ntransforma\u019fons.",
+            "LLM stands for Large Language Model, a type of AI trained on vast amounts of text data to understand and generate human-like language.",
+            "Unlike traditional NLP models that are task-specific, LLMs are general-purpose models capable of performing a wide range of language tasks without task-specific training."
+        ],
+        "response_time_sec": 3.305065393447876
+    },
+    {
+        "timestamp": "2025-09-08 16:50:45",
+        "query": "what is the capital of france?",
+        "response": "I don't know. The information is not in the provided documents.",
+        "query_tokens": 9,
+        "response_tokens": 16,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json"
+        ],
+        "retrieved_passages": [
+            "What is task decomposition in agent planning?",
+            "What is autonomous decision-making in AI agents?",
+            "What is cognitive architecture in AI agents?",
+            "What is the role of simulation environments in training AI agents?"
+        ],
+        "response_time_sec": 1.2863900661468506
+    },
+    {
+        "timestamp": "2025-09-08 16:52:02",
+        "query": "how do agentic ai systems differ from traditional ai models in terms of autonomy and decision making?",
+        "response": "Agentic AI systems fundamentally differ from traditional AI models in their level of autonomy and decision-making capabilities.  Traditional AI models, often found in tasks like image recognition or spam filtering, typically operate within predefined parameters and lack the ability to independently adapt their behavior or make decisions outside of their programmed instructions.  They receive input, process it according to a fixed algorithm, and produce an output.  In contrast, agentic AI systems are designed to operate with a significant degree of autonomy. They can perceive their environment, interpret that perception, and then make decisions and take actions to achieve their goals, even in unforeseen or dynamic situations.  This autonomy extends beyond simply following pre-programmed rules; agentic AI systems can learn from their experiences, adapt their strategies, and even exhibit goal-directed behavior that wasn't explicitly programmed.  The key distinction lies in the level of independent action and decision-making: traditional AI models are reactive, executing pre-determined functions, while agentic AI systems are proactive, capable of independent planning and execution to achieve objectives.  This difference is reflected in their application; traditional AI excels in well-defined tasks, while agentic AI is suited for complex, unpredictable environments requiring adaptive behavior.\n\n\nSource: `What is an Agentic AI?` (Page: 1)\nSource: `Agentic AI refers to AI systems designed to act autonomously, make decisions, and interact with their environment to achieve specific goals.` (Page: 1)",
+        "query_tokens": 24,
+        "response_tokens": 311,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_01.json"
+        ],
+        "retrieved_passages": [
+            "What is autonomous decision-making in AI agents?",
+            "Agentic AI refers to AI systems designed to act autonomously, make decisions, and interact with their environment to achieve specific goals.",
+            "How do AI agents differ from traditional automation scripts?",
+            "What is an Agentic AI?"
+        ],
+        "response_time_sec": 2.6495773792266846
+    },
+    {
+        "timestamp": "2025-09-08 16:53:28",
+        "query": "describe key safety and ethical considerations when deploying autonomous agentic ai applications?",
+        "response": "Deploying autonomous agentic AI applications necessitates careful consideration of both safety and ethical implications.  Safety concerns revolve around the potential for unintended consequences arising from the AI's actions.  Since these agents operate independently, their decisions could lead to harm if not properly designed and monitored. This includes potential physical harm if the agent controls physical systems, such as robots in manufacturing or self-driving cars.  Furthermore, errors in the AI's programming or unforeseen circumstances could lead to malfunctions with potentially serious repercussions.  Ethical considerations are equally crucial.  The autonomous nature of these agents raises questions about accountability. If an agent causes harm, determining responsibility becomes complex \u2013 is it the developers, the users, or the AI itself?  Issues of bias and fairness are also paramount.  If the AI is trained on biased data, it may perpetuate and even amplify existing societal inequalities in its decision-making.  Transparency is another key ethical concern.  Understanding how an autonomous agent arrives at its decisions is vital for trust and accountability.  A lack of transparency can make it difficult to identify and correct errors or biases.  Finally, the potential for misuse of agentic AI, such as in surveillance or autonomous weapons systems, raises significant ethical dilemmas that must be addressed proactively.  The design and deployment of these systems must prioritize safety and ethical considerations to mitigate these risks and ensure responsible innovation.\n\n\nSource:  The information is not in the provided documents.",
+        "query_tokens": 19,
+        "response_tokens": 317,
+        "retrieved_doc_ids": [
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_02.json",
+            "C:\\Users\\user\\OneDrive\\Desktop\\rag_app\\docs\\llm_03.json"
+        ],
+        "retrieved_passages": [
+            "What ethical risks exist with AI agents representing humans?",
+            "Ethics ensures that AI agents act responsibly, safeguarding human values, fairness, transparency, and accountability.",
+            "What role does ethics play in agentic AI design?",
+            "What cybersecurity risks exist with AI agents?"
+        ],
+        "response_time_sec": 2.569658041000366
+    }
+]

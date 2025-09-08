@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+chromadb
+pypdf
+unstructured
+unstructured-client
+jq
+jsonpath-ng
+sentence-transformers
+transformers
