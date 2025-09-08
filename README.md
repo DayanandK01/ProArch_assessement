@@ -22,7 +22,7 @@ The application follows a standard RAG pipeline architecture:
 2.  **Retrieval & Generation (`app.py`)**: The Streamlit application takes a user's question. This question is converted into an embedding and used to search the Chroma database for the most relevant document chunks. These retrieved chunks, along with the original question, are "stuffed" into a prompt and sent to the LLM.
 3.  **Output**: The LLM generates a comprehensive answer based on the provided context. The application then displays the answer along with **citations** from the original documents, providing transparency and verifiability.
 
-![RAG Architecture Diagram](architecture/app_architecture.jpeg)
+![RAG Architecture Diagram](architecture/app_architecture.png)
 
 ## Design Choices & Justification
 
