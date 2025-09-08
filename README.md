@@ -1,4 +1,4 @@
-# Small AI App (RAG)
+# GetInfo AI App (RAG)
 
 This project is a Retrieval-Augmented Generation (RAG) application that answers user questions based on a small, private document set. The application is built using a local vector database and a large language model (LLM) to ensure responses are factual and grounded in the provided documents.
 
